@@ -1,0 +1,6 @@
+{
+  "name": "QS Copilot AI",
+  "description": "AI Commercial Brain for Quantity Surveyors",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
