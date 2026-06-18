@@ -459,7 +459,7 @@ export const initOfflineDB = (force = false) => {
 };
 
 // LAZY LOAD FIRST
-initOfflineDB();
+initOfflineDB(true);
 
 // 1. Projects API
 export const loadProjects = (): QSProject[] => {
